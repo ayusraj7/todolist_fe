@@ -36,7 +36,7 @@
 - Toasts show status/detail changes
 
 ## For Starting the code in local system 
-1. git clone git@github.com:ayusraj7/todolist_fe.git
+1. git clone https://github.com/ayusraj7/todolist_fe.git
 2. cd todolist_fe
 3. npm install
 4. npm run start
